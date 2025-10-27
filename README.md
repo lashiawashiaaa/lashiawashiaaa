@@ -1,16 +1,50 @@
-## Hi there 👋
+## 👋 Hi, I'm Laisha!
 
-<!--
-**lashiawashiaaa/lashiawashiaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner **web developer** and **biochemistry student**, driven by curiosity for how technology and creativity merge.  
+I’m currently self-taught and learning independently, so any advice or tips are always welcome — they help a lot on this journey!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+
+- 🌱 Currently learning **HTML**, **CSS**, **JavaScript**, and **React**  
+- 🧪 Background in **Biochemistry**  
+- 🎯 Goal: Build interactive websites and eventually dive into **Web3** and blockchain-based apps  
+- ⚡ Learning how to truly *work* GitHub as I go  
+- ✨ Fun fact: I’m writing an **occult sci-fi novel**!
+
+---
+
+## 🧠 Currently Exploring
+
+- Full-Stack Web Development  
+- JavaScript Fundamentals  
+- React (through projects)  
+- Blockchain Basics  
+
+---
+
+## 🧩 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,react)](https://skillicons.dev)
+
+---
+
+## 📚 Resources I Use
+
+- [freeCodeCamp](https://www.freecodecamp.org)  
+- [Codédex](https://www.codedex.io)  
+- [Alchemy University](https://www.alchemy.com/university)
+
+---
+
+## 📬 Get in Touch
+
+📧 **Email:** lashiamccray70@gmail.com  
+📸 **Instagram:** [@lol_lashia324](https://www.instagram.com/lol_lashia324)
+
+---
+
+⭐ *“Code is just another form of alchemy — turning ideas into reality.”*
+
 -->

@@ -17,10 +17,11 @@ I’m currently self-taught and learning independently, so any advice or tips ar
 
 ## 🧠 Currently Exploring
 
-- Full-Stack Web Development  
+- Full-Stack Web Dev
+- Game Dev 
 - JavaScript Fundamentals  
 - React (through projects)  
-- Blockchain Basics  
+- Blockchain/ Web3 Basics  
 
 ---
 
@@ -33,7 +34,6 @@ I’m currently self-taught and learning independently, so any advice or tips ar
 ## 📚 Resources I Use
 
 - [freeCodeCamp](https://www.freecodecamp.org)  
-- [Codédex](https://www.codedex.io)  
 - [Alchemy University](https://www.alchemy.com/university)
 
 ---

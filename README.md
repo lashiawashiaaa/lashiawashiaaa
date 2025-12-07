@@ -8,7 +8,7 @@ I’m currently self-taught and learning independently, so any advice or tips ar
 ## 🚀 About Me
 
 - 🌱 Currently learning **HTML**, **CSS**, **JavaScript**, and **React**  
-- 🧪 Background in **Biochemistry**  
+- 🧪 Background in **Biochemistry** at Georgia State Uni
 - 🎯 Goal: Build interactive websites and eventually dive into **Web3** and blockchain-based apps  
 - ⚡ Learning how to truly *work* GitHub as I go  
 - ✨ Fun fact: I’m writing an **occult sci-fi novel**!

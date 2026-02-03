@@ -34,6 +34,7 @@ I’m currently self-taught and learning independently, so any advice or tips ar
 ## 📚 Resources I Use
 
 - [freeCodeCamp](https://www.freecodecamp.org)  
+- [Scrimba](https://scrimba.com/home)
 - [Alchemy University](https://www.alchemy.com/university)
 
 ---

@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Laisha!
 
-I'm a beginner **software engineer** and **biochemistry student**, driven by curiosity for how technology and creativity merge.  
-I’m currently self-taught and learning independently, so any advice or tips are always welcome — they help a lot on this journey!
+I'm a beginner **web developer**(software engineer aspiring) and **biochemistry student**, driven by curiosity for how technology and creativity merge.  
+I’m currently self-taught/learning independently, so any advice or tips are always welcome — they help a lot on this journey!
 
 ---
 
